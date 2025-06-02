@@ -1,0 +1,29 @@
+#######################################
+# Syntax Colouring Map For MaestrodimmerESP32
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MaestrodimmerESP32	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setPower	KEYWORD2
+setMode	KEYWORD2
+getMode	KEYWORD2
+setState	KEYWORD2
+getState	KEYWORD2
+changeState	KEYWORD2
+toggleSettings	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ON  LITERAL1
+OFF LITERAL1
+NORMAL_MODE	LITERAL1
+TOGGLE_MODE	LITERAL1
+
